@@ -1,0 +1,41 @@
+body{
+    /* width: 500px; */
+    margin: auto;
+    background: url(img/emma-ou-yUa8ccbdphA-unsplash.jpg);
+    /* background: rgb(219, 219, 123); */
+    
+}
+
+.form{
+    
+    /* display: block; */
+    margin: 33px auto;
+    padding: 43px 30px;
+    width: 40%;
+    text-align: center;
+    
+}
+
+.head
+{
+    text-align: center;
+}
+
+#exampleInputEmail1
+{
+    display: inline-block;
+}
+
+.anurag{
+    display: inline-block;
+    width: 39%;
+    margin: 3px auto;
+}
+
+#login1{
+    margin : 3px 14px;
+}
+
+
+
+

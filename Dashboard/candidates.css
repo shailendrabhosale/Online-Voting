@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .nav-brand {
+    float: left;
+    
+  }
+  #header1{
+      margin: 12%;
+      color: white;
+  }
+  .nav-logout {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .headline {
+      text-align: center;
+      margin-top: 17px;
+  }
+
+.form-div {
+    width: 60%;
+    margin-left: 20%;
+}
+
